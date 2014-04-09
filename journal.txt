@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Author: CHARIS SHOULD BE FIRST AUTHOR  Lisa Martin, Ruth M Bastow  and Charis Cook
+=======
+Author: MAKE CHARIS FIRST AUTHOR Lisa Martin, Ruth M Bastow  and Charis Cook
+>>>>>>> 41478df07b8c29563261de9e6479fedc479fda6f
 Title: Programming for Dummies
 
 Abstract: Some text goes here.
@@ -7,4 +11,4 @@ Introduction: This story goes a little bit like this.
 Data: e=mc sq
 Analysis: Analyse this!
 Discussion: This is where the discussion would go. 
-References: I haven't got any references. 
+References: Martin et al. 2014
