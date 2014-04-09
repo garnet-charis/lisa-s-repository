@@ -1,4 +1,4 @@
-Author: Lisa Martin, Ruth M Bastow  and Charis Cook
+Author: CHARIS SHOULD BE FIRST AUTHOR  Lisa Martin, Ruth M Bastow  and Charis Cook
 Title: Programming for Dummies
 
 Abstract: Some text goes here.
